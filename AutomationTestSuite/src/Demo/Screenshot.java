@@ -24,6 +24,7 @@ public class Screenshot {
 		
 		WebDriver driver = new ChromeDriver();
 		
+
        driver.manage().window().maximize();
        
 		driver.get("http://www.careerride.com/view/software-tester-career-objective-and-career-summary-14518.aspx");
